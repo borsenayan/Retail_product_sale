@@ -25,7 +25,7 @@ Retail businesses generate large volumes of order-level data but often lack a co
 | SQL (MySQL) | Business-question queries using joins, CTEs, and window functions |
 | Power BI | Interactive 2-page dashboard with DAX measures and slicers |
 
-## 🔍 Approach
+ 🔍 Approach
 
 <details>
 <summary><b>1. Data Cleaning (Python)</b> — click to expand</summary>
@@ -89,8 +89,7 @@ Product & Customer Page
 Charts generated during the initial exploratory analysis (see `/notebook/retail_sales_analysis.py`):
 
 Monthly Sales Trend
-[Monthly Sales Trend](notebook/monthly_sales_trend.png)
-
+[alt text](Dashboard/Productandcustomerdashboard.png)
 Sales by Region
 [Monthly Sales Trend](notebook/sales_by_region.png)
 
@@ -112,16 +111,3 @@ Sales by Region
 └── README.md              → this file
 
 
-▶️ How to Run This Project
-
-1. Clone this repository
-   bash
-   git clone https://github.com/<your-username>/retail-sales-dashboard.git
-   
-2. Run the cleaning script (`notebook/retail_sales_analysis.py`) on the raw CSV in `/data`
-3. Load the cleaned CSV into MySQL and run the queries in `/sql`
-4. Open the `.pbix` file in `/dashboard` with Power BI Desktop to explore the interactive dashboard
-
-
-
-⭐ If you found this project useful, feel free to star the repo!
