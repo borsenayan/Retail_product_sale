@@ -72,17 +72,17 @@ Product & Customer Page
 
 💡 Key Insights
 
-> 🏆 West region leads in total sales, followed by East, Central, and South — a ~40% gap between top and bottom region
+ 🏆 West region leads in total sales, followed by East, Central, and South — a ~40% gap between top and bottom region
 
-> 📱Phones and Chairs are the top two sub-categories by revenue, notably ahead of the rest of the product range
+ 📱Phones and Chairs are the top two sub-categories by revenue, notably ahead of the rest of the product range
 
-> 📈 Sales show a clear seasonal pattern with recurring mid-year dips and a strong ramp-up toward Q4 (Nov/Dec) each year, alongside an overall upward trend from 2015 to 2018
+ 📈 Sales show a clear seasonal pattern with recurring mid-year dips and a strong ramp-up toward Q4 (Nov/Dec) each year, alongside an overall upward trend from 2015 to 2018
 
-> 💻 Technology is the top-performing category overall, ahead of Furniture and Office Supplies
+ 💻 Technology is the top-performing category overall, ahead of Furniture and Office Supplies
 
-> 🚚 Standard Class shipping accounts for ~60% of all orders, with Same Day making up the smallest share
+ 🚚 Standard Class shipping accounts for ~60% of all orders, with Same Day making up the smallest share
 
-> ⏱️ Average delivery time sits at just under 4 days across all orders, with some regional/ship-mode variation worth further investigation
+ ⏱️ Average delivery time sits at just under 4 days across all orders, with some regional/ship-mode variation worth further investigation
 
 📈 Python EDA Charts
 
