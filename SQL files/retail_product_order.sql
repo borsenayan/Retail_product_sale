@@ -1,4 +1,4 @@
-/*CREATE TABLE orders (
+CREATE TABLE orders (
     row_id              INT,
     order_id            VARCHAR(20),
     order_date          DATE,
@@ -21,7 +21,7 @@
     order_month          INT,
     order_month_name     VARCHAR(10),
     delivery_time_days   INT
-);*/
+);
 
 
   SELECT COUNT(*) AS total_rows FROM orders;
