@@ -89,20 +89,20 @@ Product & Customer Page
 Charts generated during the initial exploratory analysis (see `/notebook/retail_sales_analysis.py`):
 
 Monthly Sales Trend
-[alt text](Notebook/monthly_sales_trend.png)
+![alt text](Notebook/monthly_sales_trend.png)
 
 Sales by Region
-[alt text](Notebook/sales_by_region.png)
+![alt text](Notebook/sales_by_region.png)
 
 
 🖼️ Power BI Dashboard Preview
 
  Overview Page
-  [alt text](Dashboard/retail_sales_performance_dashboard.png)
+  ![alt text](Dashboard/retail_sales_performance_dashboard.png)
 
 
  Product & Customer Page
- [alt text](Dashboard/Productandcustomerdashboard.png)
+ ![alt text](Dashboard/Productandcustomerdashboard.png)
 
 
 
