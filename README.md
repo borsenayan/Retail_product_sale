@@ -109,9 +109,13 @@ Sales by Region
  📁 Repository Structure
 
 ├── data/                  → raw and cleaned CSV files
+
 ├── notebook/              → Python cleaning + EDA script + chart outputs
+
 ├── sql/                   → SQL queries (setup + 12 analysis queries)
+
 ├── dashboard/             → Power BI .pbix file + page screenshots
+
 └── README.md              → this file
 
 
